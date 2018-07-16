@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rH
 => Practical Design Patterns in JavaScript - Advenced C - 35
 https://www.youtube.com/watch?v=wjoTzuPXo3U&list=PL6tEaVUU83w2i5IjADQ8EGI2j5Vz3wQCS
 
+=> JavaScript Fundamentals 2018 ES6 for beginners - coderschool - 3.36m 
+https://www.youtube.com/watch?v=BNTas2Kd-fc
+
 -----------------------------------------------------
  # Angular
 -----------------------------------------------------
