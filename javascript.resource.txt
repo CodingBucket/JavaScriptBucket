@@ -39,6 +39,9 @@ https://www.youtube.com/watch?v=JYPyy-hvjYc&list=PL6n9fhu94yhXwcl3a6rIfAI7QmGYIk
 => Simplicity is Vuetiful (Vue) By Coding Tech
 https://www.youtube.com/watch?v=6HRPbh5fCVA
 
+=> Vue JS 2 Tutorial - The Net Ninja - 45
+https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
+
 -----------------------------------------------------
  # React
 -----------------------------------------------------
