@@ -1,0 +1,6 @@
+# Databinding Methods:
+  
+  => String Interpolation: {{ Expression resolving to a string }}
+  => Property Binding: <button [disabled]="expression resolving to reqired  value type">
+  => Event Binding: <button (click)="expression handling the event">
+  => Two-Way Binding: <input [(ngModel)="bound model"]>
