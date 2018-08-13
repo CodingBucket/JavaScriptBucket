@@ -4,3 +4,19 @@
 
 <h2>Property Binding</h2>
 <input type="text" [value]="stringInterpolation">
+<hr>
+
+<h2>Custom Property Binding</h2>
+<app-property-binding [result]="10"></app-property-binding>
+<hr>
+
+<h2>Event Binding</h2>
+<app-event-binding (clickable)="onClicked($event)"></app-event-binding>
+<hr>
+
+<h2>Two Way Data Binding</h2>
+<app-two-way-binding></app-two-way-binding>
+
+<h2>Life Cycle Hooks</h2>
+<app-lifecycle *ngIf="!delete"></app-lifecycle>
+<button (click)="delete = true">Delete</button>

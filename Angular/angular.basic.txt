@@ -4,3 +4,13 @@
   => Property Binding: <button [disabled]="expression resolving to reqired  value type">
   => Event Binding: <button (click)="expression handling the event">
   => Two-Way Binding: <input [(ngModel)="bound model"]>
+
+# Lifrcycle Hooks:
+  1. ngOnChanges : Before #2 and when data-bound property value ngOnChanges
+  2. onOnInit : On component initialization, after first ngOnChanges
+  3. ngDoCheck : During every Angular change detection cycle
+  4. ngAfterContentInit : After inserting content (<ng-content>)
+  5. ngAfterContentChecked : After every check of inserted content
+  6. ngAfterViewInit : After initializing the components views/childs views
+  7. ngAfterViewChecked : After every check of the component's views/child views
+  8. ngOnDestroy : Just before angular destroys the directive/component
