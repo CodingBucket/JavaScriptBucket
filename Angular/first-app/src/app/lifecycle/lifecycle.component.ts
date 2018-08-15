@@ -13,7 +13,7 @@ export class LifecycleComponent implements OnInit {
   constructor() {
   }
 
-  ngOnChanges() {
+  ngOnChanges() { 
       this.log('ngOnChanges');
   }
 
