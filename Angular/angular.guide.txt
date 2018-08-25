@@ -7,15 +7,17 @@
 
 => npm install -g @angular/cli [Install Angular CLI via npm]  
 
-=> Create new folder
-
 => ng new app-name [Crate angular app]
 
 => ng new app-name --prefix prefix-name
 
+=> ng new app-name --style=scss --routing
+
+=> code . [Open project in VS Code]
+
 => ng serve --open [Start angular application]
 
-=> Go to localhost://4200
+=> ng serve -o [Go to localhost://4200]
 
 => ng generate component component-name [Create new component]
 
@@ -30,5 +32,13 @@
 => ng g directive directive-name [Create new directive]
 
 => ng g s service-name [Create new service]
+
+=> ng generate module app-routing --flat --module=app
+
+   --flat puts the file in src/app instead of its own folder.
+   
+   --module=app tells the CLI to register it in the imports array of the AppModule.
+
+=> npm install @ngrx/store --save [Inall redux]
 
 => Augury chrome extention for angular app debug.

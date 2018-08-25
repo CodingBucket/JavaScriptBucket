@@ -31,12 +31,6 @@ https://www.youtube.com/watch?v=wjoTzuPXo3U&list=PL6tEaVUU83w2i5IjADQ8EGI2j5Vz3w
 https://www.youtube.com/watch?v=BNTas2Kd-fc
 
 -----------------------------------------------------
- # Angular
------------------------------------------------------
-=> Angular2 CRUD tutorial - kudvenkat - 65
-https://www.youtube.com/watch?v=JYPyy-hvjYc&list=PL6n9fhu94yhXwcl3a6rIfAI7QmGYIkfK5
-
------------------------------------------------------
  # Vue
 -----------------------------------------------------
 => Simplicity is Vuetiful (Vue) By Coding Tech

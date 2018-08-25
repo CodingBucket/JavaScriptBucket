@@ -1,0 +1,13 @@
+-----------------------------------------------------
+ # Angular
+-----------------------------------------------------
+=> Angular2 CRUD tutorial - kudvenkat - 65
+https://www.youtube.com/watch?v=JYPyy-hvjYc&list=PL6n9fhu94yhXwcl3a6rIfAI7QmGYIkfK5
+
+-----------------------------------------------------
+ # Angular v6
+-----------------------------------------------------
+=> https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+
+=> https://github.com/gopinav/Angular-Tutorials
+=> https://github.com/mehulmpt/angular6-youtube
