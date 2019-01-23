@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=JYPyy-hvjYc&list=PL6n9fhu94yhXwcl3a6rIfAI7QmGYIk
 
 => https://github.com/gopinav/Angular-Tutorials
 => https://github.com/mehulmpt/angular6-youtube
+
+
+=> Angular Redux
+https://github.com/seeschweiler/angular-redux/blob/master/src/app/store.ts
