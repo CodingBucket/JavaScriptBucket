@@ -1,2 +1,19 @@
 => HTML and CSS for Beginners
 https://www.youtube.com/watch?v=4uRN0-XOOJ0&list=PLlMOodDAsO4xpUe-leQ9U9XUXucAHyl49
+
+LEG_FILTER = ['date', 'location']
+
+function legFilter(container) {
+  for(let leg of legs){
+    if (hasDateFilter) {
+      hasData = checkConData()  // true/false
+      if(!hasData) continue;
+    }
+    if (hasLocationFilter) {
+      hasData = checkConData()  // true/false
+    }
+    if (hasData) {
+      retrun true  // container has searched data
+    }
+  }
+}
